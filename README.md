@@ -1,118 +1,42 @@
-# Business Data Analyst Journey
+### Adah | Business Data Analyst
 
-> **Transforming Data into Business Decisions.**
+BSc Computer Science & Statistics | Founder, ADAZON™ | Port Harcourt, Nigeria
 
-Welcome to my public journey toward becoming a Business Data Analyst.
+I help organisations turn raw data into clear, evidence-based decisions. My 
+background spans brand strategy, marketing communications, data analysis, 
+campaign coordination, and stakeholder reporting including direct experience 
+in the oil and gas sector. I combine that with a Computer Science and 
+Statistics foundation to deliver analysis that is both technically sound and 
+clearly communicated to decision-makers.
 
-This repository documents my growth through real-world projects, business case studies, dashboards, and continuous learning as I develop the technical and analytical skills required to solve business problems with data.
+### Focus Areas
+- Business performance analysis, KPI tracking, and dashboard reporting
+- Data cleaning, structuring, and visualization for operational decision-making
+- Stakeholder communication — translating data into insight non-technical 
+  audiences can act on
+- Growing industry focus: oil and gas operations, production monitoring, cost 
+  control, and asset performance reporting
 
----
+### Skills
+Excel | SQL | Power BI | Python | Data Visualization | Business Reporting
 
-## About Me
+### Currently
+Completing a structured six-month programme to build advanced Business Data 
+Analyst capability, with an emphasis on tools and reporting standards relevant 
+to the oil and gas industry.
 
-I'm Adah, a Computer Science & Statistics graduate with a background in Branding, Business Strategy, and Visual Communication.
+### Background
+- Marketing and Brand strategy experience across multiple sectors, including 
+  oil and gas
+- Strong stakeholder reporting and campaign coordination track record
+- Bilingual: English and Pidgin — an asset for community and stakeholder 
+  engagement in the Niger Delta region
 
-My passion lies at the intersection of data, strategy, and decision-making. I believe businesses create greater value when decisions are driven by evidence rather than assumptions.
+### Portfolio
+Hybrid-Analyst-Journey — Documented progress toward Business Data Analyst 
+proficiency, including cleaned datasets, dashboards, and case studies
 
-This repository serves as my learning portfolio, documenting the projects, challenges, and lessons that are shaping my journey as a Business Data Analyst.
+### Contact
+LinkedIn: [linkedin.com/in/hope-adah ](https://www.linkedin.com/in/hope-adah/?skipRedirect=true)
 
----
-
-## Areas of Focus
-
-- Business Data Analytics
-- Business Intelligence
-- Data Visualization
-- Business Storytelling
-- Brand Analytics
-- Excel
-- SQL
-- Power BI
-- Python
-
----
-
-## Learning Roadmap
-
-### 📅 July
-- Excel for Data Analytics
-- Business Fundamentals
-- Statistics Refresher
-- Analytical Thinking
-
-### 📅 August
-- SQL
-- Database Fundamentals
-- Data Cleaning
-
-### 📅 September
-- Power BI
-- Dashboard Design
-- Data Modeling
-
-### 📅 October
-- Python for Data Analytics
-- Pandas
-- Exploratory Data Analysis (EDA)
-
-### 📅 November
-- Business Intelligence
-- Brand Analytics
-- Business Storytelling
-- Executive Reporting
-
-### 📅 December
-- End-to-End Portfolio Projects
-- Business Case Studies
-- Interview Preparation
-- Job Applications
-
----
-
-## Repository Structure
-
-```
-business-data-analyst-journey/
-│
-├── excel/
-├── sql/
-├── powerbi/
-├── python/
-├── datasets/
-├── dashboards/
-├── case-studies/
-├── certificates/
-├── notes/
-└── README.md
-```
-
----
-
-## What You'll Find Here
-
-Every project in this repository follows a business-focused approach:
-
-- Business Problem
-- Dataset
-- Data Cleaning
-- Analysis
-- Dashboard / Visualization
-- Key Insights
-- Business Recommendations
-- Lessons Learned
-
-The goal isn't simply to analyze data, but to generate insights that support better business decisions.
-
----
-
-## Mission
-
-**Transforming Data into Business Decisions.**
-
----
-
-## Connect With Me
-
-- **LinkedIn:** *(https://www.linkedin.com/in/hope-adah/)*
-
-Thank you for following my journey. Every commit represents another step toward becoming a Business Data Analyst who helps organizations make smarter, data-driven decisions.
+Location: Port Harcourt, Rivers State, Nigeria
