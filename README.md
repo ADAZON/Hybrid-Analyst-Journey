@@ -1,86 +1,118 @@
-# Hybrid Analyst Journey
+# Business Data Analyst Journey
 
-Welcome to my six-month journey toward becoming a **Business Data Analyst**.
+> **Transforming Data into Business Decisions.**
+
+Welcome to my public journey toward becoming a Business Data Analyst.
+
+This repository documents my growth through real-world projects, business case studies, dashboards, and continuous learning as I develop the technical and analytical skills required to solve business problems with data.
 
 ---
 
 ## About Me
 
-I'm Adah, a Computer Science & Statistics graduate passionate about transforming data into business decisions.
+I'm Adah, a Computer Science & Statistics graduate with a background in Branding, Business Strategy, and Visual Communication.
 
-This repository documents my progress as I build expertise in:
+My passion lies at the intersection of data, strategy, and decision-making. I believe businesses create greater value when decisions are driven by evidence rather than assumptions.
+
+This repository serves as my learning portfolio, documenting the projects, challenges, and lessons that are shaping my journey as a Business Data Analyst.
+
+---
+
+## Areas of Focus
 
 - Business Data Analytics
-- Data Visualization
 - Business Intelligence
+- Data Visualization
 - Business Storytelling
 - Brand Analytics
-- Presentation Design
+- Excel
+- SQL
+- Power BI
+- Python
 
 ---
 
 ## Learning Roadmap
 
-### July
-- Excel
+### 📅 July
+- Excel for Data Analytics
 - Business Fundamentals
-- Statistics
-- Data Thinking
+- Statistics Refresher
+- Analytical Thinking
 
-### August
+### 📅 August
 - SQL
-- Databases
+- Database Fundamentals
+- Data Cleaning
 
-### September
+### 📅 September
 - Power BI
 - Dashboard Design
+- Data Modeling
 
-### October
-- Python
+### 📅 October
+- Python for Data Analytics
 - Pandas
+- Exploratory Data Analysis (EDA)
 
-### November
-- Business Analytics
+### 📅 November
+- Business Intelligence
 - Brand Analytics
+- Business Storytelling
+- Executive Reporting
 
-### December
-- Portfolio Projects
+### 📅 December
+- End-to-End Portfolio Projects
+- Business Case Studies
 - Interview Preparation
+- Job Applications
 
 ---
 
 ## Repository Structure
 
 ```
-📂 excel
-📂 sql
-📂 powerbi
-📂 python
-📂 datasets
-📂 dashboards
-📂 case-studies
-📂 certificates
-📂 notes
+business-data-analyst-journey/
+│
+├── excel/
+├── sql/
+├── powerbi/
+├── python/
+├── datasets/
+├── dashboards/
+├── case-studies/
+├── certificates/
+├── notes/
+└── README.md
 ```
+
+---
+
+## What You'll Find Here
+
+Every project in this repository follows a business-focused approach:
+
+- Business Problem
+- Dataset
+- Data Cleaning
+- Analysis
+- Dashboard / Visualization
+- Key Insights
+- Business Recommendations
+- Lessons Learned
+
+The goal isn't simply to analyze data, but to generate insights that support better business decisions.
 
 ---
 
 ## Mission
 
-Transforming Data into Business Decisions.
+**Transforming Data into Business Decisions.**
 
 ---
 
-### Follow My Journey
+## Connect With Me
 
-Every week I'll upload:
+- **LinkedIn:** *(https://www.linkedin.com/in/hope-adah/)*
 
-- Dashboards
-- Case Studies
-- Practice Exercises
-- SQL Queries
-- Python Projects
-- Power BI Reports
-- Learning Notes
-
-Thank you for following my journey!
+Thank you for following my journey. Every commit represents another step toward becoming a Business Data Analyst who helps organizations make smarter, data-driven decisions.
