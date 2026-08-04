@@ -37,6 +37,8 @@ Hybrid-Analyst-Journey — Documented progress toward Business Data Analyst
 proficiency, including cleaned datasets, dashboards, and case studies
 
 ### Contact
-LinkedIn: [linkedin.com/in/hope-adah ](https://www.linkedin.com/in/hope-adah/?skipRedirect=true)
+[LinkedIn](https://www.linkedin.com/in/hope-adah/?skipRedirect=true)
+
+[Facebook](https://web.facebook.com/hope.adah)
 
 Location: Port Harcourt, Rivers State, Nigeria
